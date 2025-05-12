@@ -26,6 +26,6 @@ public class SeleniumTest {
         button.click();
 
         // Close the browser
-        // driver.quit();
+         driver.quit();
     }
 }
